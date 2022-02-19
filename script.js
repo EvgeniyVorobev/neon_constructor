@@ -1,4 +1,4 @@
-$(document).ready(function () {
+// $(document).ready(function () {
     $('.constructor__buttonLink').click(function (e) {
         e.preventDefault();
 
@@ -328,4 +328,4 @@ $(document).ready(function () {
        $('.generatorBgLights').toggleClass('generatorBgLightsActive');
     });
 
-});
+// });
